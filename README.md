@@ -20,7 +20,7 @@ I'm primarily a backend developer with experience in Django. I'm also dabbling i
 
 I am available to work on a freelance basis. Find my contact info below: 
 
-[Website](https://www.ishanmanchanda.github.io) •
+[Website](https://ishanmanchanda.github.io) •
 [Twitter](https://twitter.com/TheIshanM) •
 [Mail](mailto:ishanmanchanda70@gmail.com)
 
