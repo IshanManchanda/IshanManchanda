@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm primarily a backend developer with experience in Django. I'm also dabbling in ML.
+I'm mostly a generalist at the moment, with maximum experience in backend development with Django. Aside from that, I've worked on various other projects in Python, some animation/simulation in JS using p5.js, have some competitive programming experience, and recently I've been dabbling in ML.
 
 
-I am available to work on a freelance basis. Find my contact info below: 
+Find my contact info below: 
 
-[Website](https://ishanmanchanda.github.io) •
+<!-- [Website](https://ishanmanchanda.github.io) • -->
 [Twitter](https://twitter.com/TheIshanM) •
 [Mail](mailto:ishanmanchanda70@gmail.com)
 
