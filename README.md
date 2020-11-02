@@ -25,4 +25,6 @@ Find my contact info below:
 [Mail](mailto:ishanmanchanda70@gmail.com)
 
 
-[![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanmanchanda&show_icons=true)]()
+[![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanmanchanda&show_icons=true&count_private=true)](https://github.com/IshanManchanda/IshanManchanda)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanmanchanda&layout=compact)](https://github.com/IshanManchanda/IshanManchanda)
