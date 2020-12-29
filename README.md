@@ -25,7 +25,11 @@ Find my contact info below:
 
 <!-- [Website](https://ishanmanchanda.github.io) • -->
 [Twitter](https://twitter.com/TheIshanM) •
+[LinkedIn](https://linkedin.com/in/Ishan-Manchanda) •
+[Instagram](https://instagram.com/IshanManchanda) •
+[Facebook](https://facebook.com/TheIshanM/) •
 [Email](mailto:ishanmanchanda70@gmail.com)
+
 
 
 [![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanmanchanda&show_icons=true&count_private=true)](https://github.com/IshanManchanda/IshanManchanda)
