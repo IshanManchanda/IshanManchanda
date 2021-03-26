@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm mostly a generalist at the moment, with maximum experience in backend development with Django. Aside from that, I've worked on various other projects in Python, some animation/simulation in JS using p5.js, and have some competitive programming experience. Recently I've been dabbling in Machine Learning, C/C++, and TypeScript - in particular the MEAN stack.
 
 
-I'm looking to collaborate on full stack web applications or machine learning (academic or solution-based) projects. 
+I'm open to collaborate on machine learning projects (academic or product-based) or full-stack web applications. 
 
 
 Find my contact info below: 
