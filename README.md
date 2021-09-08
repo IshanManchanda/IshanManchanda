@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm mostly a generalist at the moment, with maximum experience in backend development with Django. Aside from that, I've worked on various other projects in Python, some animation/simulation in JS using p5.js, and have some competitive programming experience. Recently I've been dabbling in Machine Learning, C/C++, and TypeScript - in particular the MEAN stack.
+I'm mostly a generalist at the moment, with maximum experience in backend development with Django. Aside from that, I've worked on various other projects in Python (API Consumers, Image Processing, Machine Learning), some simulations in JS using p5.js, and have some competitive programming experience. Recently I've been dabbling in Deep Learning and software development using C/C++.
 
 
 I'm open to collaborate on machine learning projects (academic or product-based) or full-stack web applications. 
@@ -31,7 +31,10 @@ Find my contact info below:
 [Email](mailto:ishanmanchanda70@gmail.com)
 
 
+#### Profile Stats
 
-[![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanmanchanda&show_icons=true&count_private=true)](https://github.com/IshanManchanda/IshanManchanda)
+![trophy](https://github-profile-trophy.vercel.app/?username=IshanManchanda&theme=discord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanmanchanda&layout=compact)](https://github.com/IshanManchanda/IshanManchanda)
+![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishanmanchanda&show_icons=true&count_private=true&hide=contribs&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanmanchanda&layout=compact&theme=tokyonight)
