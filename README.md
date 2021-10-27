@@ -19,17 +19,17 @@ I'm mostly a generalist at the moment, with maximum experience in backend develo
 
 Aside from that, I've worked on various other projects in Python (API Consumers, Image Processing, Machine Learning, Web Scraping and other short scripts), some simulations in JS using p5.js, and have some competitive programming experience.
 
-I'm currently a part of the Aerial Robotics Kharagpur (ARK) Research Group where I'm an undergraduate researcher working with Machine Learning and Computer Vision as part of the Perception team. I'm also a part of Kharagpur Open Source Society (KOSS) and working on software development. As part of those two roles, I've recently been dabbling in Deep Learning and software development in C/C++.
+I'm currently a part of the Aerial Robotics Kharagpur (ARK) Research Group where I'm an undergraduate researcher working with Machine Learning and Computer Vision as part of the Perception team. I'm also a part of the Kharagpur Open Source Society (KOSS) and learning about various components of software development like architecture and the internals of certain programming languages. I've recently been exploring Deep Learning as well.
 
 
-I'm open to collaborate on machine learning projects (academic or product-based) or full-stack web applications. 
+I'm open to collaborate on machine learning projects (academic or product-based) or web applications and I'm interested in internship opportunities for the summer of 2022.
 
 
 Find my contact info below: 
 
 <!-- [Website](https://ishanmanchanda.github.io) • -->
-[Twitter](https://twitter.com/TheIshanM) •
 [LinkedIn](https://linkedin.com/in/Ishan-Manchanda) •
+[Twitter](https://twitter.com/TheIshanM) •
 [Instagram](https://instagram.com/IshanManchanda) •
 [Facebook](https://facebook.com/TheIshanM/) •
 [Email](mailto:ishanmanchanda70@gmail.com)
