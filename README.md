@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a second-year undergrad at IIT Kharagpur based out of Gurgaon. I'm mostly a generalist at the moment, with maximum experience in backend development with Django and Deep Learning with PyTorch.
+I'm a second-year undergraduate student at IIT Kharagpur based out of Gurgaon. I'm mostly a generalist at the moment, with maximum experience in backend development with Django and Deep Learning with PyTorch.
 
 I've developed several backend systems such as the one for Thought Processors ([Static Website](https://thoughtprocessors.netlify.app/)) and [StaightZero](https://straightzero.in). At StraightZero, I co-developed a payment system using the PayUMoney API, a live test-taking platform, and a supplementary material hosting system in a team of just two.
 
