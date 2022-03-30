@@ -1,4 +1,4 @@
-### Hi, I'm Ishan 👋
+### Hi! I'm Ishan 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Ishan-Manchanda)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TheIshanM)
@@ -16,15 +16,15 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a second-year undergrad at IIT Kharagpur who loves programming.
+I'm a second-year undergrad at IIT Kharagpur based out of Gurgaon. I'm mostly a generalist at the moment, with maximum experience in backend development with Django and Deep Learning with PyTorch.
 
-I'm mostly a generalist at the moment, with maximum experience in backend development with Django. I've written several backend systems such as the one for Thought Processors ([Static Website](https://thoughtprocessors.netlify.app/)) and [StaightZero](https://straightzero.in). At StraightZero, I co-developed an authentication system, a payment system using the PayUMoney API, and a live test-taking platform in a team of just 2.
+I've developed several backend systems such as the one for Thought Processors ([Static Website](https://thoughtprocessors.netlify.app/)) and [StaightZero](https://straightzero.in). At StraightZero, I co-developed a payment system using the PayUMoney API, a live test-taking platform, and a supplementary material hosting system in a team of just two.
 
-Aside from that, I've worked on various other projects in Python (API Consumers, Image Processing, Machine Learning, Web Scraping and other short scripts), some simulations in JS using p5.js, and have some competitive programming experience.
+I was part of my insitute's contingent for the Bosch's Model Extraction Attack for Video Classification event at the Inter IIT Tech Meet 10.0 in which my team placed first. I worked on various aspects of Deep Learning in the blackbox setting including data-free adversarial distillation and data-free conditional GAN training.
 
-I'm currently a part of the Aerial Robotics Kharagpur (ARK) Research Group where I'm an undergraduate researcher working with Machine Learning and Computer Vision as part of the Perception team. I'm also a part of the Kharagpur Open Source Society (KOSS) and learning about various components of software development like architecture and the internals of certain programming languages. I've recently been exploring Deep Learning as well.
+Aside from these two fields, I've worked on various other projects in Python (API Consumers, Image Processing, Machine Learning, Web Scraping and other short scripts), some simulations in JS using p5.js, and have some competitive programming experience.
 
-I'm open to collaborate on machine learning projects (academic or product-based) or web applications and I'm interested in internship opportunities for the summer of 2022.
+I'm currently a part of the Aerial Robotics Kharagpur (ARK) Research Group where I'm an undergraduate researcher working with Machine Learning and Computer Vision as part of the Perception team. I'm also a part of the Kharagpur Open Source Society (KOSS) and learning about various components of software development like architecture and the internals of certain programming languages.
 
 #### 📈 My GitHub Stats:
 
